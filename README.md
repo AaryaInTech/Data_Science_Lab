@@ -172,11 +172,11 @@ Includes:
 
 ### Features:
 
-* 📍 District-wise crime visualization
-* 🕕 Yearly trends and comparisons
-* 📈 Forecasting insights
-* 🔥 Interactive filters and charts
-* 📊 Model performance summary
+* District-wise crime visualization
+* Yearly trends and comparisons
+* Forecasting insights
+* Interactive filters and charts
+* Model performance summary
 
 Run the app:
 
@@ -196,7 +196,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
+## Author
 
 **Aarya Gourkar**
 PRN: 22070521038
