@@ -168,7 +168,7 @@ Includes:
 
 ---
 
-## 📊 Streamlit Dashboard
+## Streamlit Dashboard
 
 ### Features:
 
